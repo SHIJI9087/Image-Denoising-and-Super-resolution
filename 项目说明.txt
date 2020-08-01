@@ -1,0 +1,6 @@
+# Image denoising and super-resolution projects Info
+这是本项目的中文说明。
+项目发起人：时骥
+项目发起时间：2020-08-01
+
+本项目旨在进行图像去噪和超分辨技术研究。
